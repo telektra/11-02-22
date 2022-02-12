@@ -32,7 +32,7 @@ programa
 	{ 
 		inteiro numero
 		
-		escreva("Digite um n10úmero inteiro: ")
+		escreva("Digite um n 10 úmero inteiro: ")
 		leia(numero)
 		
 		escreva("O número digitado foi: ", numero, "\n")
